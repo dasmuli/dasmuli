@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dasmuli
+- 👀 I’m interested in ... C, C++, C#, Qt, Linux, QNX, Computer Vision, Javascript, Web-Technology, Unity, Jenkins, Algorithms, Boardgames
+- 🌱 I’m currently learning ... more
+- 💞️ I’m looking to collaborate on ... currently not
+- 📫 How to reach me ... 
